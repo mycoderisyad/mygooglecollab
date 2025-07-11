@@ -88,10 +88,10 @@ seaborn         # Advanced statistical visualizations
 ## Files Structure
 
 ```
-├── M_RISYAD_RAFLAN_20240200004_UAS_STATISTIKA.ipynb  # Main analysis notebook
-├── DATA_INDONESIA.xlsx                               # Original PISA 2018 data
-├── data_clean.xlsx                                   # Cleaned dataset
-└── README.md                                         # Project documentation
+├── M_RISYAD_RAFLAN_20240200004_UAS_STATISTIKA.ipynb
+├── DATA_INDONESIA.xlsx                               
+├── data_clean.xlsx                                 
+└── README.md                                     
 ```
 
 ## Reproducibility
